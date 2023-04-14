@@ -1,0 +1,5 @@
+name = input ("Введите ваше имя: ")
+fam = input ("Введите вашу фамилию: ")
+god = input ("Введите год рождения: ")
+god = int(2023) - int(god)
+print(name, fam",", god)
